@@ -33,7 +33,7 @@ AI API Health Monitor provides a lightweight dashboard that:
 
 ## Dashboard Preview
 
-![AI API Health Monitor](assets/screenshot.png)
+![AI API Health Monitor](screenshots/screenshot.png)
 
 Key Features
 
